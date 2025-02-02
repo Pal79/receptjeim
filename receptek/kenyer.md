@@ -30,7 +30,7 @@
 
 > A megformázott tésztát ráhejezzük a sütőpapíros tepsire és bevágjuk a tetejét három helyen, hogy az mentén tudjon majd tágulni sütés közben.
 > 240 fokra felmelegített sütőbe tesszük, de előtte még jó alaposan bevizezzük ecsettel vagy spriccelővel.
-> Ha ez megvan akkor 204 fokon 15 percig, majd 210 fokon 30 percig sütjük. Ha régi sütőd van, akkor érdemes a sütőbe alulra vizet tenni egy serpenyőbe, hogy pára legyen.
+> Ha ez megvan akkor 240 fokon 15 percig, majd 210 fokon 30 percig sütjük. Ha régi sütőd van, akkor érdemes a sütőbe alulra vizet tenni egy serpenyőbe, hogy pára legyen.
 
 ---
 
